@@ -7,11 +7,11 @@
     body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f4f4f4; color: #333; }
     .section { margin-bottom: 20px; }
     h1, h2 { color: #0056b3; }
-    .name { font-size: 36px; text-align: center; margin-top: 20px; }
+    .name { font-size: 48px; text-align: center; margin-top: 20px; margin-bottom: 20px; }
     .link-button { 
         display: block; 
         width: 200px; 
-        margin: 40px auto 20px; 
+        margin: 40px auto; 
         background-color: #007bff; 
         color: white; 
         text-align: center; 
@@ -40,12 +40,13 @@
         <li>2000年３月　宮崎県立都城商業学校　情報処理科　卒業</li>
         <li>2002年３月　福岡スクールオブミュージック専門学校 PA専攻卒業</li>
         <li>2002年４月　株式会社エスエルアイ　入社 → グランドハイアット福岡へ配属</li>
-        <li>2008年４月　グランドハイアット福岡　統括マネージャー就任 → 第二制作部　副部長　就任</li>
+        <li>2008年４月　グランドハイアット福岡　統括マネージャー就任→ 第二制作部　副部長　就任</li>
         <li>2012年４月　人材開発部　部長　就任</li>
     </ul>
 </div>
 
-<h2>実績<div class="section">
+<h2>実績</h2>
+<div class="section">
     <ul>
         <li>グランドハイアット福岡での音響照明映像のテクニカルスペシャリスト</li>
         <li>グランドハイアット福岡内イベントでの企画立案、制作運営業務</li>
@@ -75,6 +76,6 @@
     </ul>
 </div>
 
-<a href="https://user.meet-meet.com/?c=797cd6db5d392dad15a9432457761a10&a=39473&b=23668&d=poiuytrewqlkjhgfdsa" class="link-button">さらに詳しく</a>
+<a href="https://user.meet-meet.com/?c=797cd6db5d392dad15a9432457761a10&a=39473&b=23668&d=poiuytrewqlkjhgfdsa" class="link-button">SNS</a>
 </body>
 </html>
